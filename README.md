@@ -18,7 +18,7 @@ Below you will find all kinds of info and resources regarding the different even
 
 (pending write-up)
 
-### [TFTime.org](https://ctftime.org/ctfs)
+### [CTFTime.org](https://ctftime.org/ctfs)
 
 (pending write-up)
 
