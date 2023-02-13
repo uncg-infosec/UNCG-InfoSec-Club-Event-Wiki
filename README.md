@@ -14,6 +14,10 @@ Below you will find all kinds of info and resources regarding the different even
 
 (pending write-up)
 
+There are several great guides to participating in CTFs, including:
+* [The CTF Field Guide](https://trailofbits.github.io/ctf/)
+* [How to get started in CTF](https://infosecwriteups.com/how-to-get-started-in-ctf-complete-begineer-guide-15ab5a6856d)
+
 ### [PicoCTF](https://play.picoctf.org/practice)
 
 (pending write-up)
@@ -41,7 +45,6 @@ The [WeChall Score Aggregator](https://www.wechall.net/) lists many wargame site
 
 ## Miscellaneous
 
-[Link to some other info](https://span.uncg.edu/wargames/)
 
 ### [WeChall Score Aggregator](https://www.wechall.net/)
 
